@@ -1,4 +1,4 @@
-# comp163-assignment-3
+# Professional Documentation
 
 Academic Wellness Tracker is a branching simulation game that models the academic and personal choices of a college student over a semester. You play as yourself, navigating course loads, study strategies, and stress management to reach one of several outcomes.
 
